@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oredwombo.github.io/sitemap.html.gz
+Sitemap: https://oredwombo.github.io/app/sitemap.html.gz
+Sitemap: https://oredwombo.github.io/assets/sitemap.html.gz
+Sitemap: https://oredwombo.github.io/css/sitemap.html.gz
+Sitemap: https://oredwombo.github.io/includes/sitemap.html.gz
+Sitemap: https://oredwombo.github.io/item/sitemap.html.gz
+Sitemap: https://oredwombo.github.io/src/sitemap.html.gz
